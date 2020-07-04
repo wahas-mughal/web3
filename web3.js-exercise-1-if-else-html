@@ -1,1 +1,12 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Web3 with if else </title>
+    <script src="./node_modules/web3/dist/web3.js"></script>
+    <script src="exercise-1-if-else.js"></script>
+    
+</head>
+<body>
+    Web3 with if else 
+</body>
+</html>
